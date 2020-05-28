@@ -1,0 +1,30 @@
+.Placar {
+    background: slategray;
+    width: 770px;
+    height: 300px;
+}
+
+.Casa {
+    padding: 40px;
+    float: left;
+    margin-left: 40px;    
+}
+.Partida {
+    padding: 20px;
+    float: left;
+    margin-left: 30px;
+}
+.Visitante {
+    padding: 40px;
+    float: left;
+    margin-left: 30px;
+
+}
+.Gol {
+    margin-left: 50px;
+}
+.BtGol {
+    margin-left: 30px;
+}
+
+
