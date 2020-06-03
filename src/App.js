@@ -3,6 +3,7 @@ import React from 'react';
 import PlacarContainer from './Components/js/PlacarContainer';
 
 // 1) CRIAR UM OBJETO:
+// aqui comentario
 
 const placar = {  // Objeto Placa
   casa: { // Chave do Objeto Placar 
@@ -24,7 +25,7 @@ export default class App extends React.Component {
   //return <PlacarContainer {... dados} tempo={92}/>
   //}
 
-  // Referência ao componente principal:
+  // Referência componente principal:
 
   return <PlacarContainer // Referência ao Componente Principal
   
