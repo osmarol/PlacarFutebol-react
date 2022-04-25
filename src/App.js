@@ -11,11 +11,11 @@ const placar = {  // Objeto Placa
   },
   partida: { // Chava do Objeto Placar 
       estadio: "Mineirão/BH", // Chave do Objeto partida
-      data: "10/04/2020",
+      data: "25/05/2022",
       horario: "19h",
   },
   visitante: { // Chave do Objeto Placar
-      nome: "Cruzeiro/MG", // Chave do Objeto visitante
+      nome: "Atlético/MG", // Chave do Objeto visitante
   }    
 };     
 
